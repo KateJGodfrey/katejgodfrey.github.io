@@ -1,14 +1,24 @@
---
+---
 layout: page
 title: CV
---
+---
 
-<h3>I. Publications</h3>
+<h4>I. Publications</h4>
 
-<b>Godfrey KJ</b>, Rai S, Graff K, Yin S, Marrikh D, Tansey R, Vanderwal T, Harris AD, & Bray S. (2024). Minimal variation in functional connectivity in relation to day-to-day fluctuations in affect. eNeuro. 11(12): 0209-24.2024. DOI:[10.1523/ENEURO.0209-24.2024](https://doi.org/10.1523/ENEURO.0209-24.2024)
+Rai S, <b>Godfrey KJ</b>, Graff K, Tansey R, Merrikh D, Yin S, Feigelis M, Demeter DV, Vanderwal T, Greene DJ, & Bray S. (2025). How much is “enough”? Considerations for functional connectivity reliability in pediatric naturalistic fMRI. Imaging Neuroscience, 3: IMAG.a.117. DOI: [10.1162/IMAG.a.117](https://doi.org/10.1162/IMAG.a.117)
 
-Tansey R, Graff K, Rai S, Merrikh D, <b>Godfrey KJ/b>, Vanderwal T, Bray S. (2024). Development of human visual cortical function: A scoping review of task- and naturalistic-fMRI studies through the interactive specialization and maturational frameworks. Neuroscience & Biobehavioral Reviews, 162, 105729. DOI:[10.1016/j.neubiorev.2024.105729](https://doi.org/10.1016/j.neubiorev.2024.105729)
+<b>Godfrey KJ</b>, Rai S, Graff K, Yin S, Marrikh D, Tansey R, Vanderwal T, Harris AD, & Bray S. (2024). Minimal variation in functional connectivity in relation to day-to-day fluctuations in affect. eNeuro. 11(12): 0209-24.2024. DOI: [10.1523/ENEURO.0209-24.2024](https://doi.org/10.1523/ENEURO.0209-24.2024)
 
-Cho LY, Bell TK, Craddock L, <b>Godfrey KJ</b>, Hershey AD, Kuziek J, Stokoe M, Millar K, Orr S, Harris AD. (2024). Region-specific changes in brain glutamate and gamma-aminobutyric acid across the migraine attack in children and adolescents. PAIN. 165(12): 2749-2761. DOI:[10.1097/j.pain.0000000000003289](https://journals.lww.com/10.1097/j.pain.0000000000003289)
+Tansey R, Graff K, Rai S, Merrikh D, <b>Godfrey KJ</b>, Vanderwal T, Bray S. (2024). Development of human visual cortical function: A scoping review of task- and naturalistic-fMRI studies through the interactive specialization and maturational frameworks. Neuroscience & Biobehavioral Reviews, 162, 105729. DOI: [10.1016/j.neubiorev.2024.105729](https://doi.org/10.1016/j.neubiorev.2024.105729)
 
-<b>Godfrey KJ</b>, Foulkes L, McMorris C, Harris AD, Bray S. (2023). Development and Validation of the Social Reward Questionnaire – Early Childhood. Psychological Assessment. 35(3), 229-241. DOI:[10.1037/pas0001196](https://doi.org/10.1037/pas0001196)
+Cho LY, Bell TK, Craddock L, <b>Godfrey KJ</b>, Hershey AD, Kuziek J, Stokoe M, Millar K, Orr S, Harris AD. (2024). Region-specific changes in brain glutamate and gamma-aminobutyric acid across the migraine attack in children and adolescents. PAIN. 165(12): 2749-2761. DOI: [10.1097/j.pain.0000000000003289](https://journals.lww.com/10.1097/j.pain.0000000000003289)
+
+<b>Godfrey KJ</b>, Foulkes L, McMorris C, Harris AD, Bray S. (2023). Development and Validation of the Social Reward Questionnaire – Early Childhood. Psychological Assessment. 35(3), 229-241. DOI: [10.1037/pas0001196](https://doi.org/10.1037/pas0001196)
+
+<b>Godfrey KJ</b>, Espenhahn S, Stokoe M, McMorris C, Murias K, McCrimmon A, Harris AD, Bray S. (2022). Autism interest intensity in early childhood associates with executive functioning but not reward sensitivity or anxiety symptoms. Autism. 26(7): 1723-1736. DOI: [10.1177/13623613211064372](https://doi.org/10.1177/1362361321106437)
+
+Bell TK, <b>Godfrey KJ</b>, Ware AL, Yeates KO, & Harris AD. (2022). Harmonization of multi-site MRS data with ComBat. NeuroImage. 257: Article 119330. DOI: [10.1016/j.neuroimage.2022.119330](https://doi.org/10.1016/j.neuroimage.2022.119330)
+
+Kaur S, Espenhahn S, Bell T, <b>Godfrey KJ</b>, Nwaroh C, Giuffre A, Cole L, Beltrano W, Yan T, Stokoe M, Haynes L, Yuntao Hou T, Tommerdahl M, Bray S, Harris AD. (2022). Nonlinear age effects in tactile processing from early childhood to adulthood. Brain and Behavior. 12(7): Article e2644. DOI: [10.1002/brb3.2644](https://doi.org/10.1002/brb3.2644)
+
+Espenhahn S, <b>Godfrey KJ</b>, Kaur S, McMorris C, Murias K, Tommerdahl M, Bray S, & Harris AD. (2022). Atypical Tactile Perception in Early Childhood Autism. Journal of Autism and Developmental Disorders. 53, 2891–2904 (2023). DOI: [10.1007/-s10803-022-05570-7](https://doi.org/10.1007/-s10803-022-05570-7)
