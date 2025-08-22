@@ -5,7 +5,7 @@ title: CV
 
 <h4>I. Publications</h4>
 
-Rai S, <b>Godfrey KJ</b>, Graff K, Tansey R, Merrikh D, Yin S, Feigelis M, Demeter DV, Vanderwal T, Greene DJ, & Bray S. (2025). How much is “enough”? Considerations for functional connectivity reliability in pediatric naturalistic fMRI. Imaging Neuroscience, 3: IMAG.a.117. DOI: [10.1162/IMAG.a.117](https://doi.org/10.1162/IMAG.a.117)
+<div style="text-align: justify">Rai S, <b>Godfrey KJ</b>, Graff K, Tansey R, Merrikh D, Yin S, Feigelis M, Demeter DV, Vanderwal T, Greene DJ, & Bray S. (2025). How much is “enough”? Considerations for functional connectivity reliability in pediatric naturalistic fMRI. Imaging Neuroscience, 3: IMAG.a.117. DOI: [10.1162/IMAG.a.117](https://doi.org/10.1162/IMAG.a.117)</div>
 
 <b>Godfrey KJ</b>, Rai S, Graff K, Yin S, Marrikh D, Tansey R, Vanderwal T, Harris AD, & Bray S. (2024). Minimal variation in functional connectivity in relation to day-to-day fluctuations in affect. eNeuro. 11(12): 0209-24.2024. DOI: [10.1523/ENEURO.0209-24.2024](https://doi.org/10.1523/ENEURO.0209-24.2024)
 
