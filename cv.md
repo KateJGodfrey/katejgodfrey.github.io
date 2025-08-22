@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+theme: site-css
 ---
 
 <h4>I. Publications</h4>
