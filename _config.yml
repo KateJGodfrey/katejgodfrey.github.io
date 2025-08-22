@@ -1,30 +1,13 @@
-###########################################################
-### Welcome to Beautiful Jekyll!
-### This config file is meant for settings that affect your entire website. When you first
-### set up your website you should go through all these settings and edit them, but after
-### the initial set up you won't need to come back to this file often.
-###########################################################
-
-############################
-# --- Required options --- #
-############################
-
-# Name of website
+remote_theme: daattali/beautiful-jekyll
 title: Kate J. Godfrey, PhD
 
-# Your name to show in the footer
-#author: kgodfrey@umn.edu
-
-###############################################
 # --- List of links in the navigation bar --- #
-###############################################
 
 navbar-links:
+  About Me: "aboutme"
   CV: "cv"
 
-################
 ## --- Logo --- #
-################
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
@@ -37,10 +20,7 @@ navbar-links:
 # then specify the following parameter
 #title-img: /path/to/image
 
-
-#####################################
 # --- Footer social media links --- #
-#####################################
 
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
@@ -162,7 +142,7 @@ footer-hover-col: "#0085A1"
 #  - "/assets/js/custom-script.js"
 
 #################################
-# --- Web Analytics Section --- #
+## --- Web Analytics Section --- #
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
@@ -188,7 +168,7 @@ footer-hover-col: "#0085A1"
 #google_analytics: "UA-XXXXXXXX-X"
 
 ####################
-# --- Comments --- #
+## --- Comments --- #
 ####################
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
