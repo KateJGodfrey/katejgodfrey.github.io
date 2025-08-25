@@ -33,7 +33,7 @@ html {
 
 body {
   font-family: var(--body-font);
-  font-size: 1.000rem;
+  font-size: 0.750rem;
   color: var(--text-col);
   position: relative;
   line-height: 0.25;  
